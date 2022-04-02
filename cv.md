@@ -59,27 +59,16 @@
 ---
 ### Code examples
 
-**C#**
-
-```c#
-public bool AddAuto(Auto car)
-{
-    if (cars.Count == 0)
-    {
-        cars.Add(car);
+Codewars task *__Multiples of 3 or 5__*
+```js
+function solution(number){
+  var sum = 0;
+  for (i = 0; i < number; i++){
+    if (i % 3 === 0 || i % 5 === 0){
+      sum += i;
     }
-    else
-    {
-        foreach (Auto auto in cars)
-        {
-            if (!car.Equals(auto))
-            {
-                cars.Add(car);
-                return true;
-            }
-        }
-    }
-    return false;
+  }
+  return sum;
 }
 ```
 ---
