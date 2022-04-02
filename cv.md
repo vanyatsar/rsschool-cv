@@ -3,7 +3,7 @@
 
 - **VK:** [ivan_tsar99](https://vk.com/ivan_tsar99)
 - **Telegram:** @vanyatsar
-- **Discord:** Vanya Tsar#3378
+- **Discord:** Ivan Tsar(@vanyatsar)
 - **LinkedIn:** [ivan-tsar-516000140](https://www.linkedin.com/in/ivan-tsar-516000140/)
 - **Gmail:** [ivan.tsar99@gmail.com](mailto:ivan.tsar99@gmail.com)
 - **Phone:** +375 (44) 754 835 13
